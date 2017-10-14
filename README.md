@@ -2,6 +2,8 @@
 
 Leaflet.MousePosition is a simple mouse position control that you can drop into your leaflet map. It displays geographic coordinates of the mouse pointer, as it is moved about the map.
 
+*demo:* https://obama.github.io/Leaflet.MousePosition/
+
 ## Using the Mouse Position Control
 
 Insert the following line:
